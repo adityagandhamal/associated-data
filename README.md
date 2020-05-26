@@ -1,5 +1,5 @@
 # associated-data
-For associated data that can be linke to or combined with [CovidTracking](https://github.com/COVID19Tracking) data.   
+For associated data that can be linked to or combined with [CovidTracking](https://github.com/COVID19Tracking) data.   
 This includes data on ventilators, clinics and hospital beds, census demographics, flu rates, and city policies.
 
 # Data sets
